@@ -16,7 +16,7 @@ Richard E. Ladner, Professor Emeritus, in the Paul G. Allen School of Computer S
 
 ## About My Project
 
-My project will be working on an animated character system for American Sign Language. I will be designing these characters and how they work, including incorporation of location, facial expression, gender, right vs left side, etc. 
+My project will be working on an animated character system for American Sign Language. I will be designing these characters and how they work, including incorporation of location, facial expression, hand shape, orientation. Unlike si5s, motion will be indicated by animation rather than symbols.
 
 [My Final Report](files/finalreport.pdf)
 
