@@ -18,9 +18,9 @@ Richard E. Ladner, Professor Emeritus, in the Paul G. Allen School of Computer S
 
 My project will be working on an animated character system for American Sign Language based on si5i [1]. I will be designing and building an app for designing these characters and how they work, including incorporation of location, facial expression, hand shape, orientation. Unlike si5s, motion will be indicated by animation rather than symbols [2].
 
-1 RA Augustus, E Ritchie, and S Stecker. 2013. The Official American Sign Language Writing Textbook. ASLized (2013). 
+[1] RA Augustus, E Ritchie, and S Stecker. 2013. The Official American Sign Language Writing Textbook. ASLized (2013). 
 
-2 Danielle Bragg, Raja Kushalnagar, and Richard Ladner. 2018. Designing an Animated Character System for American Sign Language. In Proceedings of the 20th {International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’18). Association for Computing Machinery, New York, NY, USA, 282–294.
+[2] Danielle Bragg, Raja Kushalnagar, and Richard Ladner. 2018. Designing an Animated Character System for American Sign Language. In Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’18). Association for Computing Machinery, New York, NY, USA, 282–294.
 
 [My Final Report](files/finalreport.pdf)
 
