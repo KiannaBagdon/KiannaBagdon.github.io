@@ -20,7 +20,7 @@ My project will be working on an animated character system for American Sign Lan
 
 1 RA Augustus, E Ritchie, and S Stecker. 2013. The Official American Sign Language Writing Textbook. ASLized (2013). 
 
-2 Danielle Bragg, Raja Kushalnagar, and Richard Ladner. 2018. Designing an Animated Character System for American Sign Language. In Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’18). Association for Computing Machinery, New York, NY, USA, 282–294.
+2 Danielle Bragg, Raja Kushalnagar, and Richard Ladner. 2018. Designing an Animated Character System for American Sign Language. In Proceedings of the 20th {International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’18). Association for Computing Machinery, New York, NY, USA, 282–294.
 
 [My Final Report](files/finalreport.pdf)
 
